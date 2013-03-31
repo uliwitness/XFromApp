@@ -8,6 +8,12 @@ For the original Readme file with documentation, see !Docs.txt.
 This is the original 2000s-era source code, also seen under the name "C++ XFromApp". The only changes made were that I checked in compressed copies of the CodeWarrior projects and resource files, in the hope that their resource forks will thus survive the checkin into git.
 
 
+Note on FakeHandles
+-------------------
+
+If you are looking for a way to emulate Mac Handles on another platform that doesn't have a native implementation, there is a newer version of that code as part of my ReClassicfication project at <https://github.com/uliwitness/ReClassicfication>.
+
+
 License
 -------
 
