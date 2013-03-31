@@ -1,7 +1,7 @@
 XFromApp
 ========
 
-Old source code to run HyperCard or SuperCard XCMDs and XFCNs on Classic MacOS and Carbon.
+Old source code to run HyperCard or SuperCard XCMDs and XFCNs on Classic MacOS and Carbon. Also includes source code for the glue code you would nead to compile an XCMD or XFCN, like shipped by Apple and Silicon Beach in HyperXCmdLib etc.
 
 For the original Readme file with documentation, see !Docs.txt.
 
